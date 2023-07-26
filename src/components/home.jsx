@@ -33,6 +33,7 @@ function home() {
    imagen={imagenes.img3}
    titulo='Escapate al caribe'
    texto='Escápate a este increíble destino de playa en el Caribe Mexicano'
+   url ='https://jimjeam.github.io/contact'
    />
 
    </div>
