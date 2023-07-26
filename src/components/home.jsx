@@ -26,7 +26,7 @@ function home() {
    imagen={imagenes.img2}
    titulo='Escapate al caribe'
    texto='Escápate a este increíble destino de playa en el Caribe Mexicano'
-   url ='https://reactdeploy23.netlify.app/about' 
+   url ='https://jimjeam.github.io/about' 
 
    />
    <Cajas
